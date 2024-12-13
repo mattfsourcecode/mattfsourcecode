@@ -1,4 +1,4 @@
-<img width="200" alt="logo" src="https://github.com/user-attachments/assets/a6907512-87a4-45de-9188-cdc494dfe5a8"><br>
+<img width="400" alt="logo" src="https://github.com/user-attachments/assets/31bd0272-78ba-4772-82c0-07ef30424d89"><br>
 
 # Rooted.js
 
