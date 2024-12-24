@@ -14,3 +14,16 @@
 [![fastify-swc-typescript-server-bootstrap-cli npm](https://img.shields.io/npm/dt/fastify-swc-typescript-server-bootstrap-cli?label=fastify-swc-ts-server-bootstrap-cli%20downloads&style=for-the-badge&color=003366&logo=npm)](https://www.npmjs.com/package/fastify-swc-typescript-server-bootstrap-cli)
 
 _npm is a registered trademark of npm, Inc._
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+# [https://playwithsound.live](https://playwithsound.live)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/83446daf-f2a5-4bab-8694-c94e44440c93/deploy-status)](https://app.netlify.com/sites/webaudiophysics/deploys)  
+<img width="500" alt="app" src="https://github.com/user-attachments/assets/2ec92083-2449-484d-b976-1075b2461434">
