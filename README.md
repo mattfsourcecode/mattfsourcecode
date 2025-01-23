@@ -53,7 +53,10 @@ _"Play With Sound and the Zero Gravity Filter"_ applies simulated gravity and ve
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
-> Logos, trademarks, and technologies are the property of their respective owners and are included solely to signify tools and standards utilized. Their inclusion, along with ownership attributed through the provided hyperlinks, does not imply any affiliation, endorsement by, or endorsement of the referenced entities.
+> Logos, trademarks, and technologies are the property of their respective owners and are included solely to reference the tools and standards utilized. Their inclusion, along with ownership attributed through the provided hyperlinks (if applicable), does not imply any affiliation with, endorsement by, or endorsement of the referenced entities. The apps, codebases, and gists represented as my own work are exempt from such claims. Dependency licenses, typically documented, can otherwise be derived from the respective dependency files as a backup.
 >
 > npm is a registered trademark of npm, Inc.
