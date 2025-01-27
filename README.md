@@ -32,7 +32,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/83446daf-f2a5-4bab-8694-c94e44440c93/deploy-status)](https://www.netlify.com)&nbsp;
 [![Cloudflare](https://img.shields.io/badge/Proxy-303030?style=flat&logo=cloudflare)](https://developers.cloudflare.com/cloudflare-one/policies/gateway/proxy/)&nbsp;
-[![Node.js v23.13.0](https://img.shields.io/badge/Node.js-v23.13.0-303030?logo=node.js&logoColor=84BA64&labelColor=303030)](https://nodejs.org)&nbsp;
+[![Node.js v23.13.1](https://img.shields.io/badge/Node.js-v23.13.1-303030?logo=node.js&logoColor=84BA64&labelColor=303030)](https://nodejs.org)&nbsp;
 [![pnpm v9.15.4](https://img.shields.io/badge/pnpm-v9.15.4-303030?logo=pnpm&logoColor=F69220&labelColor=303030)](https://pnpm.io)&nbsp;
 [![Matter.js](https://img.shields.io/badge/-4B5562?logo=Matter.js)](https://brm.io/matter-js/)&nbsp;
 [![Web Audio API](https://img.shields.io/badge/Web%20Audio%20API-303030?style=flat)](https://www.w3.org/TR/webaudio-1.1/)&nbsp;
