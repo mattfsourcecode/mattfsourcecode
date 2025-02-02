@@ -14,6 +14,12 @@
 
 [<img width="150" alt="npm" src="https://github.com/user-attachments/assets/7df52f89-952c-4ecf-9782-bb0bc9c28167">](https://www.npmjs.com/~rootedjs)
 
+[<img width="200" alt="npm" src="https://github.com/user-attachments/assets/ee70394a-ac30-45d5-8dc9-a100f71f9819">](https://www.npmjs.com/~rootedjs)
+
+# Rooted.js
+
+Pure JavaScript CLI tools utilizing [Node.js core libraries](https://nodejs.org/docs/latest/api/).
+
 [![bootstrapper-script-generator npm](https://img.shields.io/npm/dt/bootstrapper-script-generator?label=bootstrapper-script-generator%20downloads&style=for-the-badge&color=003366&logo=npm&labelColor=303030)](https://www.npmjs.com/package/bootstrapper-script-generator)
 
 [![fastify-swc-typescript-server-bootstrap-cli npm](https://img.shields.io/npm/dt/fastify-swc-typescript-server-bootstrap-cli?label=fastify-swc-ts-server-bootstrap-cli%20downloads&style=for-the-badge&color=003366&logo=npm&labelColor=303030)](https://www.npmjs.com/package/fastify-swc-typescript-server-bootstrap-cli)
@@ -57,6 +63,6 @@ _"Play With Sound and the Zero Gravity Filter"_ applies simulated gravity and ve
 <br>
 <br>
 
-> Logos, trademarks, and technologies are the property of their respective owners and are included solely to reference the tools and standards utilized. Their inclusion, along with ownership attributed through the provided hyperlinks (if applicable), does not imply any affiliation with, endorsement by, or endorsement of the referenced entities. The apps, codebases, and gists represented as my own work are exempt from such claims. Dependency licenses, typically documented, can otherwise be derived from the respective dependency files as a backup.
+> Logos, trademarks, and technologies are the property of their respective owners and are included solely to reference the tools and standards utilized. Their inclusion, along with ownership attributed through the provided hyperlinks (if applicable), does not imply any affiliation with, endorsement by, or endorsement of the referenced entities. The apps, codebases, gists, and images represented as my own work are exempt from such claims. Dependency licenses, typically documented, can otherwise be derived from the respective dependency files as a backup.
 >
 > npm is a registered trademark of npm, Inc.
