@@ -14,7 +14,7 @@
 
 [<img width="150" alt="NPM logo in bold red and white text." src="https://github.com/user-attachments/assets/091f535d-9cce-4dae-8a54-c2b0b2b12bb0">](https://www.npmjs.com/~rootedjs)
 
-[<img width="200" alt="A futuristic tree with glowing roots forming intricate patterns, wrapped around a '.js' logo." src="https://github.com/user-attachments/assets/77ddfbb6-2b6b-497d-85fd-8fd56fef4aba">](https://www.npmjs.com/~rootedjs)
+[<img width="200" alt="An app icon feaaturing a tree with roots wrapped around a '.js' logo." src="https://github.com/user-attachments/assets/77ddfbb6-2b6b-497d-85fd-8fd56fef4aba">](https://www.npmjs.com/~rootedjs)
 
 # Rooted.js
 
