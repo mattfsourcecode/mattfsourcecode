@@ -30,15 +30,29 @@ Pure JavaScript CLI tools utilizing [Node.js core libraries](https://nodejs.org/
 <br>
 <br>
 
-### Web Audio Signal Processing Effects Controlled by Interactive Simulated Physics Properties
+# Freequencies - Alpha Release
+
+## [https://freequencies.netlify.app](https://freequencies.netlify.app)
+
+[<img alt="Freequencies DSP web app interface showing a grid-based XY control pad for frequency and resonance, volume and filter sliders on the right, and a colorful real-time waveform analyzer below with animated gradient and peak/RMS audio levels in decibels." src="https://github.com/user-attachments/assets/19eecaf1-c6f6-4eac-8080-ab76c46e6b54">](https://freequencies.netlify.app)
+
+Freequencies is an interactive DSP environment designed for generating tranquil, meditative soundscapes.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Web Audio Signal Processing Effects Controlled by Interactive Simulated Physics Properties
 
 #### Programmed from 2013 - 2024
 
-**[https://playwithsound.live](https://playwithsound.live)**
+## [https://playwithsound.live](https://playwithsound.live)
 
 [<img alt="A cosmic design with dripping neon colors" src="https://github.com/user-attachments/assets/07ab0aa3-9e97-4ae1-a572-49bdcae19e90">](https://playwithsound.live)
 
-_"Play With Sound and the Zero Gravity Filter"_ applies simulated gravity and velocity properties to audio filters controlled by user interactions, creating many dynamic approaches for generating sound. The app features a configurable, ultra hi-res, responsive Fast Fourier Transform (FFT) algorithm developed in JavaScript. Note that hardware operating in low-power mode may throttle the application's performance.
+Play With Sound and the Zero Gravity Filter applies simulated gravity and velocity properties to audio filters controlled by user interactions, creating many dynamic approaches for generating sound. The app features a configurable, ultra hi-res, responsive Fast Fourier Transform (FFT) algorithm developed in JavaScript. Note that hardware operating in low-power mode may throttle the application's performance.
 
 <br>
 <br>
