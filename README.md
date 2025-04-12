@@ -30,7 +30,9 @@ Pure JavaScript CLI tools utilizing [Node.js core libraries](https://nodejs.org/
 <br>
 <br>
 
-# Freequencies - Alpha Release
+# Freequencies | make tranquil, meditative soundscapes
+
+## Alpha Release
 
 ## [https://freequencies.netlify.app](https://freequencies.netlify.app)
 
