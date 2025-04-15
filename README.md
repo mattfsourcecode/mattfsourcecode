@@ -38,7 +38,7 @@ Pure JavaScript CLI tools utilizing [Node.js core libraries](https://nodejs.org/
 
 [<img alt="Freequencies DSP web app interface showing a grid-based XY control pad for frequency and resonance, volume and filter sliders on the right, and a colorful real-time waveform analyzer below with animated gradient and peak/RMS audio levels in decibels." src="https://github.com/user-attachments/assets/19eecaf1-c6f6-4eac-8080-ab76c46e6b54">](https://freequencies.netlify.app)
 
-𝐹𝓇𝑒𝑒𝓆𝓊𝑒𝓃𝒸𝒾𝑒𝓈 is an interactive DSP environment designed for generating tranquil, meditative soundscapes.
+𝐹𝓇𝑒𝑒𝓆𝓊𝑒𝓃𝒸𝒾𝑒𝓈 is a web-based DSP environment designed for synthesizing tranquil, meditative soundscapes.
 
 <br>
 <br>
